@@ -4,9 +4,11 @@
     "adresse": "Hofstallgasse 2-4\n5020 Salzburg",
     "tel": "+43 662 8044 77550",
     "email": "ub.salzburg@plus.ac.at",
-    "normalopen": "Mo – Fr: 08:30 – 20:00\nSa: 09:00 – 17:00",
+    "normalopen1": "Mo – Fr: 08:30 – 20:00",
+    "normalopen2": "Sa: 09:00 – 17:00",
     "sonderopen": "Do, 22.12.2022: 08:30 – 18:00",
-    "close": "Do, 08.12.2022\nFr, 23.12.2022 – 01.01.2023",
+    "close1": "Do, 08.12.2022",
+    "close2": "Fr, 23.12.2022 – 01.01.2023",
     "image": "https://www.plus.ac.at/wp-content/uploads/2021/03/VB_Hofstallgasse-2-300x225.jpg"
   },
   {
@@ -14,9 +16,11 @@
     "adresse": "Residenzplatz 1\n5020 Salzburg",
     "tel": "+43 662 8044 4305",
     "email": "ubs.alteresidenz@plus.ac.at",
-    "normalopen": "Mo – Do: 10:00 – 15:00\nFr: 10:00 – 13:00",
+    "normalopen1": "Mo – Do: 10:00 – 15:00",
+    "normalopen2": "Fr: 10:00 – 13:00",
     "sonderopen": "no",
-    "close": "Do, 08.12.2022\nFr, 23.12.2022 – 01.01.2023",
+    "close1": "Do, 08.12.2022",
+    "close2": "Fr, 23.12.2022 – 01.01.2023",
     "image": "https://www.plus.ac.at/wp-content/uploads/2021/02/RTEmagicC_4cb15c1b1a.jpg.jpg"
   },
   {
@@ -24,9 +28,11 @@
     "adresse": "Hofstallgasse 2-4\n5020 Salzburg",
     "tel": "+43 662 8044 77550",
     "email": "ub.salzburg@plus.ac.at",
-    "normalopen": "Mo – Fr: 08:30 – 20:00\nSa: 09:00 – 17:00",
+    "normalopen1": "Mo – Fr: 08:30 – 20:00",
+    "normalopen2": "Sa: 09:00 – 17:00",
     "sonderopen": "Do, 22.12.2022: 08:30 – 18:00",
-    "close": "Do, 08.12.2022\nFr, 23.12.2022 – 01.01.2023",
+    "close1": "Do, 08.12.2022",
+    "close2": "Fr, 23.12.2022 – 01.01.2023",
     "image": "https://www.plus.ac.at/wp-content/uploads/2021/03/VB_Hofstallgasse-2-300x225.jpg"
   },
   {
@@ -34,9 +40,11 @@
     "adresse": "Hofstallgasse 2-4\n5020 Salzburg",
     "tel": "+43 662 8044 77550",
     "email": "ub.salzburg@plus.ac.at",
-    "normalopen": "Mo – Fr: 08:30 – 20:00\nSa: 09:00 – 17:00",
+    "normalopen1": "Mo – Fr: 08:30 – 20:00",
+    "normalopen2": "Sa: 09:00 – 17:00",
     "sonderopen": "Do, 22.12.2022: 08:30 – 18:00",
-    "close": "Do, 08.12.2022\nFr, 23.12.2022 – 01.01.2023",
+    "close1": "Do, 08.12.2022",
+    "close2": "Fr, 23.12.2022 – 01.01.2023",
     "image": "https://www.plus.ac.at/wp-content/uploads/2021/03/VB_Hofstallgasse-2-300x225.jpg"
   },
   {
@@ -44,9 +52,11 @@
     "adresse": "Hofstallgasse 2-4\n5020 Salzburg",
     "tel": "+43 662 8044 77550",
     "email": "ub.salzburg@plus.ac.at",
-    "normalopen": "Mo – Fr: 08:30 – 20:00\nSa: 09:00 – 17:00",
+    "normalopen1": "Mo – Fr: 08:30 – 20:00",
+    "normalopen2": "Sa: 09:00 – 17:00",
     "sonderopen": "Do, 22.12.2022: 08:30 – 18:00",
-    "close": "Do, 08.12.2022\nFr, 23.12.2022 – 01.01.2023",
+    "close1": "Do, 08.12.2022",
+    "close2": "Fr, 23.12.2022 – 01.01.2023",
     "image": "https://www.plus.ac.at/wp-content/uploads/2021/03/VB_Hofstallgasse-2-300x225.jpg"
   },
   {
@@ -54,9 +64,11 @@
     "adresse": "Hofstallgasse 2-4\n5020 Salzburg",
     "tel": "+43 662 8044 77550",
     "email": "ub.salzburg@plus.ac.at",
-    "normalopen": "Mo – Fr: 08:30 – 20:00\nSa: 09:00 – 17:00",
+    "normalopen1": "Mo – Fr: 08:30 – 20:00",
+    "normalopen2": "Sa: 09:00 – 17:00",
     "sonderopen": "Do, 22.12.2022: 08:30 – 18:00",
-    "close": "Do, 08.12.2022\nFr, 23.12.2022 – 01.01.2023",
+    "close1": "Do, 08.12.2022",
+    "close2": "Fr, 23.12.2022 – 01.01.2023",
     "image": "https://www.plus.ac.at/wp-content/uploads/2021/03/VB_Hofstallgasse-2-300x225.jpg"
   },
   {
@@ -64,9 +76,11 @@
     "adresse": "Hofstallgasse 2-4\n5020 Salzburg",
     "tel": "+43 662 8044 77550",
     "email": "ub.salzburg@plus.ac.at",
-    "normalopen": "Mo – Fr: 08:30 – 20:00\nSa: 09:00 – 17:00",
+    "normalopen1": "Mo – Fr: 08:30 – 20:00",
+    "normalopen2": "Sa: 09:00 – 17:00",
     "sonderopen": "Do, 22.12.2022: 08:30 – 18:00",
-    "close": "Do, 08.12.2022\nFr, 23.12.2022 – 01.01.2023",
+    "close1": "Do, 08.12.2022",
+    "close2": "Fr, 23.12.2022 – 01.01.2023",
     "image": "https://www.plus.ac.at/wp-content/uploads/2021/03/VB_Hofstallgasse-2-300x225.jpg"
   },
   {
@@ -74,9 +88,11 @@
     "adresse": "Hofstallgasse 2-4\n5020 Salzburg",
     "tel": "+43 662 8044 77550",
     "email": "ub.salzburg@plus.ac.at",
-    "normalopen": "Mo – Fr: 08:30 – 20:00\nSa: 09:00 – 17:00",
+    "normalopen1": "Mo – Fr: 08:30 – 20:00",
+    "normalopen2": "Sa: 09:00 – 17:00",
     "sonderopen": "Do, 22.12.2022: 08:30 – 18:00",
-    "close": "Do, 08.12.2022\nFr, 23.12.2022 – 01.01.2023",
+    "close1": "Do, 08.12.2022",
+    "close2": "Fr, 23.12.2022 – 01.01.2023",
     "image": "https://www.plus.ac.at/wp-content/uploads/2021/03/VB_Hofstallgasse-2-300x225.jpg"
   },
   {
@@ -84,9 +100,11 @@
     "adresse": "Hofstallgasse 2-4\n5020 Salzburg",
     "tel": "+43 662 8044 77550",
     "email": "ub.salzburg@plus.ac.at",
-    "normalopen": "Mo – Fr: 08:30 – 20:00\nSa: 09:00 – 17:00",
+    "normalopen1": "Mo – Fr: 08:30 – 20:00",
+    "normalopen2": "Sa: 09:00 – 17:00",
     "sonderopen": "Do, 22.12.2022: 08:30 – 18:00",
-    "close": "Do, 08.12.2022\nFr, 23.12.2022 – 01.01.2023",
+    "close1": "Do, 08.12.2022",
+    "close2": "Fr, 23.12.2022 – 01.01.2023",
     "image": "https://www.plus.ac.at/wp-content/uploads/2021/03/VB_Hofstallgasse-2-300x225.jpg"
   },
   {
@@ -94,9 +112,11 @@
     "adresse": "Hofstallgasse 2-4\n5020 Salzburg",
     "tel": "+43 662 8044 77550",
     "email": "ub.salzburg@plus.ac.at",
-    "normalopen": "Mo – Fr: 08:30 – 20:00\nSa: 09:00 – 17:00",
+    "normalopen1": "Mo – Fr: 08:30 – 20:00",
+    "normalopen2": "Sa: 09:00 – 17:00",
     "sonderopen": "Do, 22.12.2022: 08:30 – 18:00",
-    "close": "Do, 08.12.2022\nFr, 23.12.2022 – 01.01.2023",
+    "close1": "Do, 08.12.2022",
+    "close2": "Fr, 23.12.2022 – 01.01.2023",
     "image": "https://www.plus.ac.at/wp-content/uploads/2021/03/VB_Hofstallgasse-2-300x225.jpg"
   },
   {
@@ -104,9 +124,11 @@
     "adresse": "Hofstallgasse 2-4\n5020 Salzburg",
     "tel": "+43 662 8044 77550",
     "email": "ub.salzburg@plus.ac.at",
-    "normalopen": "Mo – Fr: 08:30 – 20:00\nSa: 09:00 – 17:00",
+    "normalopen1": "Mo – Fr: 08:30 – 20:00",
+    "normalopen2": "Sa: 09:00 – 17:00",
     "sonderopen": "Do, 22.12.2022: 08:30 – 18:00",
-    "close": "Do, 08.12.2022\nFr, 23.12.2022 – 01.01.2023",
+    "close1": "Do, 08.12.2022",
+    "close2": "Fr, 23.12.2022 – 01.01.2023",
     "image": "https://www.plus.ac.at/wp-content/uploads/2021/03/VB_Hofstallgasse-2-300x225.jpg"
   },
   {
@@ -114,9 +136,11 @@
     "adresse": "Hofstallgasse 2-4\n5020 Salzburg",
     "tel": "+43 662 8044 77550",
     "email": "ub.salzburg@plus.ac.at",
-    "normalopen": "Mo – Fr: 08:30 – 20:00\nSa: 09:00 – 17:00",
+    "normalopen1": "Mo – Fr: 08:30 – 20:00",
+    "normalopen2": "Sa: 09:00 – 17:00",
     "sonderopen": "Do, 22.12.2022: 08:30 – 18:00",
-    "close": "Do, 08.12.2022\nFr, 23.12.2022 – 01.01.2023",
+    "close1": "Do, 08.12.2022",
+    "close2": "Fr, 23.12.2022 – 01.01.2023",
     "image": "https://www.plus.ac.at/wp-content/uploads/2021/03/VB_Hofstallgasse-2-300x225.jpg"
   },
   {
@@ -124,9 +148,11 @@
     "adresse": "Hofstallgasse 2-4\n5020 Salzburg",
     "tel": "+43 662 8044 77550",
     "email": "ub.salzburg@plus.ac.at",
-    "normalopen": "Mo – Fr: 08:30 – 20:00\nSa: 09:00 – 17:00",
+    "normalopen1": "Mo – Fr: 08:30 – 20:00",
+    "normalopen2": "Sa: 09:00 – 17:00",
     "sonderopen": "Do, 22.12.2022: 08:30 – 18:00",
-    "close": "Do, 08.12.2022\nFr, 23.12.2022 – 01.01.2023",
+    "close1": "Do, 08.12.2022",
+    "close2": "Fr, 23.12.2022 – 01.01.2023",
     "image": "https://www.plus.ac.at/wp-content/uploads/2021/03/VB_Hofstallgasse-2-300x225.jpg"
   },
   {
@@ -134,9 +160,11 @@
     "adresse": "Hofstallgasse 2-4\n5020 Salzburg",
     "tel": "+43 662 8044 77550",
     "email": "ub.salzburg@plus.ac.at",
-    "normalopen": "Mo – Fr: 08:30 – 20:00\nSa: 09:00 – 17:00",
+    "normalopen1": "Mo – Fr: 08:30 – 20:00",
+    "normalopen2": "Sa: 09:00 – 17:00",
     "sonderopen": "Do, 22.12.2022: 08:30 – 18:00",
-    "close": "Do, 08.12.2022\nFr, 23.12.2022 – 01.01.2023",
+    "close1": "Do, 08.12.2022",
+    "close2": "Fr, 23.12.2022 – 01.01.2023",
     "image": "https://www.plus.ac.at/wp-content/uploads/2021/03/VB_Hofstallgasse-2-300x225.jpg"
   },
   {
@@ -144,10 +172,59 @@
     "adresse": "Hofstallgasse 2-4\n5020 Salzburg",
     "tel": "+43 662 8044 77550",
     "email": "ub.salzburg@plus.ac.at",
-    "normalopen": "Mo – Fr: 08:30 – 20:00\nSa: 09:00 – 17:00",
+    "normalopen1": "Mo – Fr: 08:30 – 20:00",
+    "normalopen2": "Sa: 09:00 – 17:00",
     "sonderopen": "Do, 22.12.2022: 08:30 – 18:00",
-    "close": "Do, 08.12.2022\nFr, 23.12.2022 – 01.01.2023",
+    "close1": "Do, 08.12.2022",
+    "close2": "Fr, 23.12.2022 – 01.01.2023",
+    "image": "https://www.plus.ac.at/wp-content/uploads/2021/03/VB_Hofstallgasse-2-300x225.jpg"
+  },
+  {
+    "name": "Hauptbibliothek Hofstallgasse",
+    "adresse": "Hofstallgasse 2-4\n5020 Salzburg",
+    "tel": "+43 662 8044 77550",
+    "email": "ub.salzburg@plus.ac.at",
+    "normalopen1": "Mo – Fr: 08:30 – 20:00",
+    "normalopen2": "Sa: 09:00 – 17:00",
+    "sonderopen": "Do, 22.12.2022: 08:30 – 18:00",
+    "close1": "Do, 08.12.2022",
+    "close2": "Fr, 23.12.2022 – 01.01.2023",
+    "image": "https://www.plus.ac.at/wp-content/uploads/2021/03/VB_Hofstallgasse-2-300x225.jpg"
+  },
+  {
+    "name": "Hauptbibliothek Hofstallgasse",
+    "adresse": "Hofstallgasse 2-4\n5020 Salzburg",
+    "tel": "+43 662 8044 77550",
+    "email": "ub.salzburg@plus.ac.at",
+    "normalopen1": "Mo – Fr: 08:30 – 20:00",
+    "normalopen2": "Sa: 09:00 – 17:00",
+    "sonderopen": "Do, 22.12.2022: 08:30 – 18:00",
+    "close1": "Do, 08.12.2022",
+    "close2": "Fr, 23.12.2022 – 01.01.2023",
+    "image": "https://www.plus.ac.at/wp-content/uploads/2021/03/VB_Hofstallgasse-2-300x225.jpg"
+  },
+  {
+    "name": "Hauptbibliothek Hofstallgasse",
+    "adresse": "Hofstallgasse 2-4\n5020 Salzburg",
+    "tel": "+43 662 8044 77550",
+    "email": "ub.salzburg@plus.ac.at",
+    "normalopen1": "Mo – Fr: 08:30 – 20:00",
+    "normalopen2": "Sa: 09:00 – 17:00",
+    "sonderopen": "Do, 22.12.2022: 08:30 – 18:00",
+    "close1": "Do, 08.12.2022",
+    "close2": "Fr, 23.12.2022 – 01.01.2023",
+    "image": "https://www.plus.ac.at/wp-content/uploads/2021/03/VB_Hofstallgasse-2-300x225.jpg"
+  },
+  {
+    "name": "Hauptbibliothek Hofstallgasse",
+    "adresse": "Hofstallgasse 2-4\n5020 Salzburg",
+    "tel": "+43 662 8044 77550",
+    "email": "ub.salzburg@plus.ac.at",
+    "normalopen1": "Mo – Fr: 08:30 – 20:00",
+    "normalopen2": "Sa: 09:00 – 17:00",
+    "sonderopen": "Do, 22.12.2022: 08:30 – 18:00",
+    "close1": "Do, 08.12.2022",
+    "close2": "Fr, 23.12.2022 – 01.01.2023",
     "image": "https://www.plus.ac.at/wp-content/uploads/2021/03/VB_Hofstallgasse-2-300x225.jpg"
   }
 ]
-
