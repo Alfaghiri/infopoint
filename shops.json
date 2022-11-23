@@ -10,7 +10,7 @@
     ],
     "distance": "0.16",
     "rate": "4.4",
-    "vedio": "https://infopoint.hoope.me/shop/Hofer.mp4"
+    "vedio": "https://infopoint.hoope.me/shops/uni_hofer.mp4"
   },
   {
     "name": "OMV",
@@ -23,7 +23,7 @@
     ],
     "distance": "0.16",
     "rate": "4.4",
-    "vedio": "https://infopoint.hoope.me/shop/Hofer.mp4"
+    "vedio": "https://infopoint.hoope.me/shops/uni_hofer.mp4"
   },
   {
     "name": "Lidl",
@@ -36,7 +36,7 @@
     ],
     "distance": "0.16",
     "rate": "4.4",
-    "vedio": "https://infopoint.hoope.me/shop/Hofer.mp4"
+    "vedio": "https://infopoint.hoope.me/shops/uni_hofer.mp4"
   },
   {
     "name": "Spar",
@@ -45,7 +45,7 @@
     "open": ["MO-FR: 07:40-20:00", "SA: 07:40-18:00", "SO: Geschlossen"],
     "distance": "0.16",
     "rate": "4.4",
-    "vedio": "https://infopoint.hoope.me/shop/Hofer.mp4"
+    "vedio": "https://infopoint.hoope.me/shops/uni_hofer.mp4"
   },
   {
     "name": "Billa",
@@ -54,7 +54,7 @@
     "open": ["MO-FR: 07:40-20:00", "SA: 07:40-18:00", "SO: Geschlossen"],
     "distance": "0.16",
     "rate": "4.4",
-    "vedio": "https://infopoint.hoope.me/shop/Hofer.mp4"
+    "vedio": "https://infopoint.hoope.me/shops/uni_hofer.mp4"
   },
   {
     "name": "Mixmarkt",
@@ -63,6 +63,6 @@
     "open": ["MO-FR: 07:40-20:00", "SA: 07:40-18:00", "SO: Geschlossen"],
     "distance": "0.16",
     "rate": "4.4",
-    "vedio": "https://infopoint.hoope.me/shop/Hofer.mp4"
+    "vedio": "https://infopoint.hoope.me/shops/uni_hofer.mp4"
   }
 ]
