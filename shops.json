@@ -1,7 +1,7 @@
 [
   {
     "name": "Hofer",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_Hofer.svg/1200px-Logo_Hofer.svg.png",
+    "logo": "https://infopoint.hoope.me/shops/Hofer.png",
     "adress": "Schillerstraße 25, 5020 Salzburg",
     "open": [
       "Montag-Freitag: 07:40–20:00",
@@ -14,7 +14,7 @@
   },
   {
     "name": "OMV",
-    "logo": "https://www.omv.at/assets/head/omv/logo-670x377.png",
+    "logo": "https://infopoint.hoope.me/shops/Omv.png",
     "adress": "Schillerstraße 25, 5020 Salzburg",
     "open": [
       "Montag-Freitag: 07:40–20:00",
@@ -27,7 +27,7 @@
   },
   {
     "name": "Lidl",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Lidl-Logo.svg/1024px-Lidl-Logo.svg.png",
+    "logo": "https://infopoint.hoope.me/shops/Lidl.png",
     "adress": "Schillerstraße 25, 5020 Salzburg",
     "open": [
       "Montag - Freitag 07:40–20:00",
@@ -40,7 +40,7 @@
   },
   {
     "name": "Spar",
-    "logo": "https://endpafp.azureedge.net/vendor/04ba9bd6-d2b8-4634-bb4c-7bf33ab78ca0.large.png",
+    "logo": "https://infopoint.hoope.me/shops/Spar.png",
     "adress": "Schillerstraße 25, 5020 Salzburg",
     "open": ["MO-FR: 07:40-20:00", "SA: 07:40-18:00", "SO: Geschlossen"],
     "distance": "0.16",
@@ -49,7 +49,7 @@
   },
   {
     "name": "Billa",
-    "logo": "https://upload.wikimedia.org/wikipedia/de/thumb/1/1b/Billa_logo.svg/1200px-Billa_logo.svg.png",
+    "logo": "https://infopoint.hoope.me/shops/Billa.png",
     "adress": "Schillerstraße 25, 5020 Salzburg",
     "open": ["MO-FR: 07:40-20:00", "SA: 07:40-18:00", "SO: Geschlossen"],
     "distance": "0.6",
@@ -58,7 +58,7 @@
   },
   {
     "name": "Mixmarkt",
-    "logo": "https://www.mixmarkt.eu/typo3conf/ext/mm_template/Resources/Public/Tmpl/images/icon07_25_1.png",
+    "logo": "https://infopoint.hoope.me/shops/MixMarkt.png",
     "adress": "Schillerstraße 25, 5020 Salzburg",
     "open": ["MO-FR: 07:40-20:00", "SA: 07:40-18:00", "SO: Geschlossen"],
     "distance": "0.16",
