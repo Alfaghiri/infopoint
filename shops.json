@@ -64,5 +64,95 @@
     "distance": "0.16",
     "rate": "4.4",
     "vedio": "https://infopoint.hoope.me/shops/uni_hofer.mp4"
+  },
+  {
+    "name": "Deichmann",
+    "logo": "https://infopoint.hoope.me/shops/Deichmann.png",
+    "adress": "Südtiroler Platz 13 FORUM 1, 5020 Salzburg",
+    "open": ["MO-FR: 09:00-19:00", "SA: 09:00-18:00", "SO: Geschlossen"],
+    "distance": "1.1",
+    "rate": "4.4",
+    "vedio": "https://infopoint.hoope.me/shops/uni_hofer.mp4"
+  },
+  {
+    "name": "dm drogerie markt",
+    "logo": "https://infopoint.hoope.me/shops/dm.png",
+    "adress": "Südtiroler Platz 13 FORUM 1, 5020 Salzburg",
+    "open": ["MO-FR: 08:00-19:00", "SA: 08:00-18:00", "SO: Geschlossen"],
+    "distance": "1.1",
+    "rate": "4.4",
+    "vedio": "https://infopoint.hoope.me/shops/uni_hofer.mp4"
+  },
+  {
+    "name": "EUROSPAR",
+    "logo": "https://infopoint.hoope.me/shops/EUROSPAR.png",
+    "adress": "Südtiroler Platz 13 FORUM 1, 5020 Salzburg",
+    "open": ["MO-FR: 07:15-19:30", "SA: 07:15-18:00", "SO: Geschlossen"],
+    "distance": "1.1",
+    "rate": "4.4",
+    "vedio": "https://infopoint.hoope.me/shops/uni_hofer.mp4"
+  },
+  {
+    "name": "GameStop",
+    "logo": "https://infopoint.hoope.me/shops/GameStop.png",
+    "adress": "Südtiroler Platz 13 FORUM 1, 5020 Salzburg",
+    "open": ["MO-FR: 09:00-19:00", "SA: 09:00-18:00", "SO: Geschlossen"],
+    "distance": "1.1",
+    "rate": "4.4",
+    "vedio": "https://infopoint.hoope.me/shops/uni_hofer.mp4"
+  },
+  {
+    "name": "H&M",
+    "logo": "https://infopoint.hoope.me/shops/H&M.png",
+    "adress": "Südtiroler Platz 13 FORUM 1, 5020 Salzburg",
+    "open": ["MO-FR: 09:00-19:00", "SA: 09:00-18:00", "SO: Geschlossen"],
+    "distance": "1.1",
+    "rate": "4.4",
+    "vedio": "https://infopoint.hoope.me/shops/uni_hofer.mp4"
+  },
+  {
+    "name": "Hartlauer Optik Pur",
+    "logo": "https://infopoint.hoope.me/shops/Hartlauer.png",
+    "adress": "Südtiroler Platz 13 FORUM 1, 5020 Salzburg",
+    "open": ["MO-FR: 09:00-19:00", "SA: 09:00-18:00", "SO: Geschlossen"],
+    "distance": "1.1",
+    "rate": "4.4",
+    "vedio": "https://infopoint.hoope.me/shops/uni_hofer.mp4"
+  },
+  {
+    "name": "Hervis",
+    "logo": "https://infopoint.hoope.me/shops/Hervis.png",
+    "adress": "Südtiroler Platz 13 FORUM 1, 5020 Salzburg",
+    "open": ["MO-FR: 09:00-19:00", "SA: 09:00-18:00", "SO: Geschlossen"],
+    "distance": "1.1",
+    "rate": "4.4",
+    "vedio": "https://infopoint.hoope.me/shops/uni_hofer.mp4"
+  },
+  {
+    "name": "Müller Drogerie",
+    "logo": "https://infopoint.hoope.me/shops/Müller.png",
+    "adress": "Südtiroler Platz 13 FORUM 1, 5020 Salzburg",
+    "open": ["MO-FR: 09:00-19:00", "SA: 09:00-18:00", "SO: Geschlossen"],
+    "distance": "1.1",
+    "rate": "4.4",
+    "vedio": "https://infopoint.hoope.me/shops/uni_hofer.mp4"
+  },
+  {
+    "name": "New Yorker",
+    "logo": "https://infopoint.hoope.me/shops/NewYorker.png",
+    "adress": "Südtiroler Platz 13 FORUM 1, 5020 Salzburg",
+    "open": ["MO-FR: 09:00-19:00", "SA: 09:00-18:00", "SO: Geschlossen"],
+    "distance": "1.1",
+    "rate": "4.4",
+    "vedio": "https://infopoint.hoope.me/shops/uni_hofer.mp4"
+  },
+  {
+    "name": "Antonius-Apotheke",
+    "logo": "https://infopoint.hoope.me/shops/Antonius-Apotheke.png",
+    "adress": "Südtiroler Platz 13 FORUM 1, 5020 Salzburg",
+    "open": ["MO-FR: 08:00-18:00", "SA: 08:00-12:00", "SO: Geschlossen"],
+    "distance": "0.6",
+    "rate": "4.4",
+    "vedio": "https://infopoint.hoope.me/shops/uni_hofer.mp4"
   }
 ]
