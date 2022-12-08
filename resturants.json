@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Alpis",
+    "logo": "https://infopoint.hoope.me/resturants/Alpis.png",
+    "adress": "Itzlinger Hauptstraße 31, 5020 Salzburg",
+    "open": [
+      "Montag-Freitag: 08:00–22:00",
+      "Samstag: 10:00–22:00",
+      "Sonntag: Geschlossen"
+    ],
+    "distance": "0.16",
+    "rate": "4.4",
+    "vedio": "https://infopoint.hoope.me/shops/uni_hofer.mp4"
+  },
+  {
+    "name": "Ristorante de Cesare",
+    "logo": "https://infopoint.hoope.me/resturants/Ristorante.png",
+    "adress": "Schillerstraße 27, 5020 Salzburg",
+    "open": [
+      "Montag-Freitag: 11:30–14:00,17:30–21:30",
+      "Samstag-Sonntag : Geschlossen"
+    ],
+    "distance": "0.16",
+    "rate": "4.4",
+    "vedio": "https://infopoint.hoope.me/shops/uni_hofer.mp4"
+  },
+  {
+    "name": "Pizzeria La Rustica",
+    "logo": "https://infopoint.hoope.me/resturants/Rustica.png",
+    "adress": "Raiffeisenstraße 7, 5061 Elsbethen",
+    "open": [
+      "Montag-Freitag: 11:00–14:00,17:00–22:00",
+      "Samstag: 11:00–22:00",
+      "Sonntag: Geschlossen"
+    ],
+    "distance": "0.16",
+    "rate": "4.4",
+    "vedio": "https://infopoint.hoope.me/shops/uni_hofer.mp4"
+  },
+  {
+    "name": "Mangia delizioso",
+    "logo": "https://infopoint.hoope.me/resturants/Mangia.png",
+    "adress": "Andreas-Hofer-Straße 9, 5020 Salzburg",
+    "open": [
+      "Montag-Freitag: 11:00–14:00,17:00–22:00",
+      "Samstag-Sonntag: 11:00–22:00"
+    ],
+    "distance": "0.16",
+    "rate": "4.4",
+    "vedio": "https://infopoint.hoope.me/shops/uni_hofer.mp4"
+  },
+  {
+    "name": "Pommes boutique",
+    "logo": "https://infopoint.hoope.me/resturants/Pommes.png",
+    "adress": "Itzlinger Hauptstraße 17, 5020 Salzburg",
+    "open": ["Montag-Freitag: 11:00–21:00", "Samstag-Sonntag: 14:00–22:00"],
+    "distance": "0.16",
+    "rate": "4.4",
+    "vedio": "https://infopoint.hoope.me/shops/uni_hofer.mp4"
+  },
+  {
+    "name": "Uncle Falafel",
+    "logo": "https://infopoint.hoope.me/resturants/Uncle.png",
+    "adress": "Elisabethstraße 53a, 5020 Salzburg",
+    "open": [
+      "Mi-Do-Sa-So: 11:00–23:45",
+      "Freitag: 14:30–23:45",
+      "Dienstag: Geschlossen"
+    ],
+    "distance": "0.16",
+    "rate": "4.4",
+    "vedio": "https://infopoint.hoope.me/shops/uni_hofer.mp4"
+  },
+  {
+    "name": "Akakiko Sushi & Asian Fusion",
+    "logo": "https://infopoint.hoope.me/resturants/Akakiko.png",
+    "adress": "Südtiroler Pl. 11, 5020 Salzburg",
+    "open": ["Montag-Sonntag: 10:30–23:00"],
+    "distance": "0.16",
+    "rate": "4.4",
+    "vedio": "https://infopoint.hoope.me/shops/uni_hofer.mp4"
+  },
+  {
+    "name": "Pizza Classic",
+    "logo": "https://infopoint.hoope.me/resturants/Classic.png",
+    "adress": "Plainstraße 73, 5020 Salzburg",
+    "open": ["Montag-Samstag: 10:00–14:00,17:00–22:00", "Sonntag: 10:30-22:00"],
+    "distance": "0.16",
+    "rate": "4.4",
+    "vedio": "https://infopoint.hoope.me/shops/uni_hofer.mp4"
+  },
+  {
+    "name": "McDonald's",
+    "logo": "https://infopoint.hoope.me/resturants/McDonald.png",
+    "adress": "Südtiroler Platz 13, Forum 1, 5020 Salzburg",
+    "open": ["Sonntag-Donnerstag: 05:30–01:00", "Freitag-Samstag: 05:30–03:00"],
+    "distance": "0.16",
+    "rate": "4.4",
+    "vedio": "https://infopoint.hoope.me/shops/uni_hofer.mp4"
+  },
+  {
+    "name": "BURGER KING",
+    "logo": "https://infopoint.hoope.me/resturants/KING.png",
+    "adress": "Südtiroler Pl. 1, 5020 Salzburg",
+    "open": ["Montag-Sonntag: 10:00–22:00"],
+    "distance": "0.16",
+    "rate": "4.4",
+    "vedio": "https://infopoint.hoope.me/shops/uni_hofer.mp4"
+  },
+  {
+    "name": "Euro Gyros",
+    "logo": "https://infopoint.hoope.me/resturants/Gyros.png",
+    "adress": "Südtiroler Pl. 1, 5020 Salzburg",
+    "open": ["Montag-Sonntag: 08:00–22:00"],
+    "distance": "0.16",
+    "rate": "4.4",
+    "vedio": "https://infopoint.hoope.me/shops/uni_hofer.mp4"
+  },
+  {
+    "name": "Subway",
+    "logo": "https://infopoint.hoope.me/resturants/Subway.png",
+    "adress": "Rainerstr. 21 (Kiesel, Ekz, 5020 Salzburg",
+    "open": ["Sonntag-Donnerstag: 09:00–23:00", "Freitag-Samstag: 09:00–00:00"],
+    "distance": "0.16",
+    "rate": "4.4",
+    "vedio": "https://infopoint.hoope.me/shops/uni_hofer.mp4"
+  },
+  {
+    "name": "way to india",
+    "logo": "https://infopoint.hoope.me/resturants/india.png",
+    "adress": "Rainerstraße 24/12, 5020 Salzburg",
+    "open": ["Montag-Sonntag: 10:30–23:00"],
+    "distance": "0.16",
+    "rate": "4.4",
+    "vedio": "https://infopoint.hoope.me/shops/uni_hofer.mp4"
+  },
+  {
+    "name": "City Kebab",
+    "logo": "https://infopoint.hoope.me/resturants/city.png",
+    "adress": "Rainerstraße 24, 5020 Salzburg",
+    "open": ["Montag-Sonntag: 10:00–23:00"],
+    "distance": "0.16",
+    "rate": "4.4",
+    "vedio": "https://infopoint.hoope.me/shops/uni_hofer.mp4"
+  }
+]
