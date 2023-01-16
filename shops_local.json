@@ -10,12 +10,12 @@
     ],
     "distance": "0.16",
     "rate": "4.4",
-    "vedio": "/src/shops/uni_hofer.mp4",
+    "vedio": "/shops/uni_hofer.mp4",
     "sale": "https://www.wogibtswas.at/b/4397216"
   },
   {
     "name": "OMV",
-    "logo": "/src/shops/Omv.png",
+    "logo": "/shops/Omv.png",
     "adress": "Schillerstraße 25, 5020 Salzburg",
     "open": [
       "Montag-Freitag: 07:40–20:00",
@@ -24,11 +24,11 @@
     ],
     "distance": "0.16",
     "rate": "4.4",
-    "vedio": "/src/shops/uni_hofer.mp4"
+    "vedio": "/shops/uni_hofer.mp4"
   },
   {
     "name": "Lidl",
-    "logo": "/src/shops/Lidl.png",
+    "logo": "/shops/Lidl.png",
     "adress": "Schillerstraße 25, 5020 Salzburg",
     "open": [
       "Montag - Freitag 07:40–20:00",
@@ -37,127 +37,127 @@
     ],
     "distance": "0.16",
     "rate": "4.4",
-    "vedio": "/src/shops/uni_hofer.mp4",
+    "vedio": "/shops/uni_hofer.mp4",
     "sale": "https://www.wogibtswas.at/b/4392710"
   },
   {
     "name": "Spar",
-    "logo": "/src/shops/Spar.png",
+    "logo": "/shops/Spar.png",
     "adress": "Schillerstraße 25, 5020 Salzburg",
     "open": ["MO-FR: 07:40-20:00", "SA: 07:40-18:00", "SO: Geschlossen"],
     "distance": "0.16",
     "rate": "4.4",
-    "vedio": "/src/shops/uni_hofer.mp4"
+    "vedio": "/shops/uni_hofer.mp4"
   },
   {
     "name": "Billa",
-    "logo": "/src/shops/Billa.png",
+    "logo": "/shops/Billa.png",
     "adress": "Schillerstraße 25, 5020 Salzburg",
     "open": ["MO-FR: 07:40-20:00", "SA: 07:40-18:00", "SO: Geschlossen"],
     "distance": "0.6",
     "rate": "4.4",
-    "vedio": "/src/shops/uni_hofer.mp4",
+    "vedio": "/shops/uni_hofer.mp4",
     "sale": "https://www.wogibtswas.at/b/4396072"
   },
   {
     "name": "Mixmarkt",
-    "logo": "/src/shops/MixMarkt.png",
+    "logo": "/shops/MixMarkt.png",
     "adress": "Schillerstraße 25, 5020 Salzburg",
     "open": ["MO-FR: 07:40-20:00", "SA: 07:40-18:00", "SO: Geschlossen"],
     "distance": "0.16",
     "rate": "4.4",
-    "vedio": "/src/shops/uni_hofer.mp4"
+    "vedio": "/shops/uni_hofer.mp4"
   },
   {
     "name": "Deichmann",
-    "logo": "/src/shops/Deichmann.png",
+    "logo": "/shops/Deichmann.png",
     "adress": "Südtiroler Platz 13 FORUM 1, 5020 Salzburg",
     "open": ["MO-FR: 09:00-19:00", "SA: 09:00-18:00", "SO: Geschlossen"],
     "distance": "1.1",
     "rate": "4.4",
-    "vedio": "/src/shops/Forum.mp4"
+    "vedio": "/shops/Forum.mp4"
   },
   {
     "name": "dm drogerie markt",
-    "logo": "/src/shops/dm.png",
+    "logo": "/shops/dm.png",
     "adress": "Südtiroler Platz 13 FORUM 1, 5020 Salzburg",
     "open": ["MO-FR: 08:00-19:00", "SA: 08:00-18:00", "SO: Geschlossen"],
     "distance": "1.1",
     "rate": "4.4",
-    "vedio": "/src/shops/Forum.mp4",
+    "vedio": "/shops/Forum.mp4",
     "sale": "https://www.wogibtswas.at/b/4390881"
   },
   {
     "name": "EUROSPAR",
-    "logo": "/src/shops/EUROSPAR.png",
+    "logo": "/shops/EUROSPAR.png",
     "adress": "Südtiroler Platz 13 FORUM 1, 5020 Salzburg",
     "open": ["MO-FR: 07:15-19:30", "SA: 07:15-18:00", "SO: Geschlossen"],
     "distance": "1.1",
     "rate": "4.4",
-    "vedio": "/src/shops/Forum.mp4"
+    "vedio": "/shops/Forum.mp4"
   },
   {
     "name": "GameStop",
-    "logo": "/src/shops/GameStop.png",
+    "logo": "/shops/GameStop.png",
     "adress": "Südtiroler Platz 13 FORUM 1, 5020 Salzburg",
     "open": ["MO-FR: 09:00-19:00", "SA: 09:00-18:00", "SO: Geschlossen"],
     "distance": "1.1",
     "rate": "4.4",
-    "vedio": "/src/shops/Forum.mp4"
+    "vedio": "/shops/Forum.mp4"
   },
   {
     "name": "H&M",
-    "logo": "/src/shops/H&M.png",
+    "logo": "/shops/H&M.png",
     "adress": "Südtiroler Platz 13 FORUM 1, 5020 Salzburg",
     "open": ["MO-FR: 09:00-19:00", "SA: 09:00-18:00", "SO: Geschlossen"],
     "distance": "1.1",
     "rate": "4.4",
-    "vedio": "/src/shops/Forum.mp4"
+    "vedio": "/shops/Forum.mp4"
   },
   {
     "name": "Hartlauer Optik Pur",
-    "logo": "/src/shops/Hartlauer.png",
+    "logo": "/shops/Hartlauer.png",
     "adress": "Südtiroler Platz 13 FORUM 1, 5020 Salzburg",
     "open": ["MO-FR: 09:00-19:00", "SA: 09:00-18:00", "SO: Geschlossen"],
     "distance": "1.1",
     "rate": "4.4",
-    "vedio": "/src/shops/Forum.mp4",
+    "vedio": "/shops/Forum.mp4",
     "sale": "https://www.wogibtswas.at/b/4391625"
   },
   {
     "name": "Hervis",
-    "logo": "/src/shops/Hervis.png",
+    "logo": "/shops/Hervis.png",
     "adress": "Südtiroler Platz 13 FORUM 1, 5020 Salzburg",
     "open": ["MO-FR: 09:00-19:00", "SA: 09:00-18:00", "SO: Geschlossen"],
     "distance": "1.1",
     "rate": "4.4",
-    "vedio": "/src/shops/Forum.mp4"
+    "vedio": "/shops/Forum.mp4"
   },
   {
     "name": "Müller Drogerie",
-    "logo": "/src/shops/Müller.png",
+    "logo": "/shops/Müller.png",
     "adress": "Südtiroler Platz 13 FORUM 1, 5020 Salzburg",
     "open": ["MO-FR: 09:00-19:00", "SA: 09:00-18:00", "SO: Geschlossen"],
     "distance": "1.1",
     "rate": "4.4",
-    "vedio": "/src/shops/Forum.mp4"
+    "vedio": "/shops/Forum.mp4"
   },
   {
     "name": "New Yorker",
-    "logo": "/src/shops/NewYorker.png",
+    "logo": "/shops/NewYorker.png",
     "adress": "Südtiroler Platz 13 FORUM 1, 5020 Salzburg",
     "open": ["MO-FR: 09:00-19:00", "SA: 09:00-18:00", "SO: Geschlossen"],
     "distance": "1.1",
     "rate": "4.4",
-    "vedio": "/src/shops/Forum.mp4"
+    "vedio": "/shops/Forum.mp4"
   },
   {
     "name": "Antonius-Apotheke",
-    "logo": "/src/shops/Antonius-Apotheke.png",
+    "logo": "/shops/Antonius-Apotheke.png",
     "adress": "Südtiroler Platz 13 FORUM 1, 5020 Salzburg",
     "open": ["MO-FR: 08:00-18:00", "SA: 08:00-12:00", "SO: Geschlossen"],
     "distance": "0.6",
     "rate": "4.4",
-    "vedio": "/src/shops/Forum.mp4"
+    "vedio": "/shops/Forum.mp4"
   }
 ]
