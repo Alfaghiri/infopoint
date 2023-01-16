@@ -1,7 +1,7 @@
 [
   {
     "name": "Hofer",
-    "logo": "/src/shops/Hofer.png",
+    "logo": "/shops/Hofer.png",
     "adress": "Schillerstraße 25, 5020 Salzburg",
     "open": [
       "Montag-Freitag: 07:40–20:00",
